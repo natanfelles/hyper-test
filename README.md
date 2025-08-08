@@ -1,3 +1,3 @@
 # Hyper Test
 
-Foo bar bazzz... OK.
+Foo bar bazzz... OK. Ban!
