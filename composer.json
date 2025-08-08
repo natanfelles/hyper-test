@@ -1,0 +1,17 @@
+{
+    "name": "hyper/test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hyper\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Natan Felles",
+            "email": "natanfelles@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
